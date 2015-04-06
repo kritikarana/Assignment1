@@ -414,6 +414,7 @@
 				84A65DAC1AD193A200272766 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84A65DAD1AD193A200272766 /* Build configuration list for PBXNativeTarget "Assignment1Tests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +423,7 @@
 				84A65DAF1AD193A200272766 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
